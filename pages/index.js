@@ -43,7 +43,7 @@ export default function Home() {
           <div className="inline-flex items-center bg-white px-4 py-2 rounded-full shadow-sm border border-gray-200 mb-8">
             <div className="w-2 h-2 bg-green-500 rounded-full mr-2 animate-pulse"></div>
             <p className="text-lg font-semibold text-gray-800">
-              Från <span className="text-[#073767]">499:- / månad</span> - Det mesta ingår!
+              Från <span className="text-[#073767]">299:- / månad</span> - Det mesta ingår!
             </p>
           </div>
         </div>
@@ -100,8 +100,8 @@ export default function Home() {
                     Redo att växa digitalt?
                   </h3>
                   <p className="text-gray-600 leading-relaxed">
-                    AAA Websites levererar hemsidor av högsta kvalitet för små och medelstora företag. 
-                    Vi erbjuder premium webbutveckling med React & Next.js, modern design och 
+                    AAA Websites levererar hemsidor av högsta kvalitet för små och medelstora företag.
+                    Vi erbjuder premium webbutveckling med React & Next.js, modern design och
                     digital marknadsföring.
                   </p>
                 </div>
